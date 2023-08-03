@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I am Ayush Keshari (🎃💻🏃‍♀️☕)</h1>
 <h3 align="center">Embracing the Geek Within and Beyond!</h3>
 
-<img align="right" src="https://i.ibb.co/5K1wz7P/5f988079-b907-453f-b74b-ad8b43d5c3d9.gif" alt="5f988079-b907-453f-b74b-ad8b43d5c3d9" alt="coding" width="350">
+<img align="right" src="https://i.ibb.co/5K1wz7P/5f988079-b907-453f-b74b-ad8b43d5c3d9.gif" alt="coding" width="350">
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&pause=1000&color=0999E8&background=7AFF8100&center=true&vCenter=true&width=435&lines=Nice+to+%22e-see%22+you!;I'm+a+Full-Stack+Developer;A+Wordsmith+Adventurous+Nomad;And+a+part-time+Cook%2C+maybe+%3AD" alt="Typing SVG" /></a>
 
