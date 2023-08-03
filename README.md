@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I am Ayush Keshari (🎃💻🏃‍♀️☕)</h1>
 <h3 align="center">Embracing the Geek Within and Beyond!</h3>
 
-<img align="right" src="https://lh3.googleusercontent.com/pw/AIL4fc-YNt07sNgkNqxRtE30ZdY6V2xJRbpvczsYIjEzkKR0DDZhlHeKpqPAtmD4HeExx0BU70bR76vMaW59WPaiKv8YqrbPsnkvgG3EIBvn5ZDsFAmNW_0q-6_A66Qw0BM_P6-mSXXWRJc5cV24ek4jC46dfIr9zepY0U3Q4TqLISPFSg5E5bPumQ9Bpe-FVblcFD0uQQ3BgTYDd4ILASwqs3sRGf6h8ESKYyiwvDTVoWBfTepxZxx9_FpaZgwc_Ejd0ZyNdZRgA_zrWA8WxFZG4DIuBHaW34YrX25CNPOYjmWN6qsmNZuP0h3qG4V3-99DDWMbm31STBaAmFDkJD4eMlPhqlF2lvesa8QbTyo8cOe2fiGoKdX6SgMWe3tsfRYmsw6jtKRIHmwTVj9lC-yxCKXfnvTDhXWFf96tftZHL_ELwoYqrNVgsp4hyocYUHo7Nos2zoux6-8bXSawW5dJ51UUx5siGFMVOCckGgxUw9nUxFcOHtA9MmcNqg5eb4Ee3zF9GdpenXSoBvVozVvLyqPjn36kUPwMvL1i2PvMo4UUbL8XxN5PsYdNzDeSvaALvCs0MD3twkyfgbyb9wJ38zgPrlX0ZK_v1kAZgFFDpun1385WJx3LKIfmz7EZwald0Im9ezVlIQEkDvfdaKLzqdLbyIvJKhcdjNtznkSX76J_QgpX8hRGZE_IZZNIa0vtvSIxFjfaX4Va8sqP0lwX5Q5k4iJLrN9JgrsO2IuwhSNOQaYyrc1Hlz1g1u6zeaWgCL4canz0eMhK51ev44gY7FyMolVqQa5qBwtb-qsNNgeKsA69zOolkSrUOFicE9OGvH74hEUcNebYKxeYvDiJ9z753Cfwf_vFr1i6p7z42jAec7R239ijQwe3p64ueC4rP4wOh8f9hxeh8oKqDKGQ7Q9W2vS2MdR9nCtq7bDQgfkCzE66Mm860y8=w512-h512-s-no?authuser=0" alt="coding" width="350">
+<img align="right" src="https://i.ibb.co/5K1wz7P/5f988079-b907-453f-b74b-ad8b43d5c3d9.gif" alt="5f988079-b907-453f-b74b-ad8b43d5c3d9" alt="coding" width="350">
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&pause=1000&color=0999E8&background=7AFF8100&center=true&vCenter=true&width=435&lines=Nice+to+%22e-see%22+you!;I'm+a+Full-Stack+Developer;A+Wordsmith+Adventurous+Nomad;And+a+part-time+Cook%2C+maybe+%3AD" alt="Typing SVG" /></a>
 
